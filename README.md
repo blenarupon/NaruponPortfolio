@@ -1,12 +1,17 @@
 # Apprentice
 
 ### Education
-Physics, PhD
+Diploma (Year 1) in Information Technology
 
-### Work Experience
-Data scientist @ Toyota Financial Services
-- big impact project 1!
-- big impact project 2!
+### Education
+Primary Education: Vineyard Methodist School
+Graduated in 2018, GPA 2.92
+
+Lower Secondary Education: The Chiangmai Christian School
+Graduated in 2021, GPA 2.80
+
+Vocational Certificate: Payap Technology and Business College, Chiang Mai
+Graduated in 2023, GPA 3.80
 
 ### Projects
-EEG Band Discovery
+project approach วิชา ออกแบบและพัฒนาเว็บไซต์
